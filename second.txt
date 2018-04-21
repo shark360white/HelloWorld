@@ -1,2 +1,3 @@
 simple second file
 other second line
+
